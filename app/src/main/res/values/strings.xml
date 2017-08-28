@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Order Coffee App</string>
+    <string name="name">Name</string>
+    <string name="toppingsHeader">Toppings</string>
+    <string name="whippedCream">Whipped Cream</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="quantityHeader">Quantity</string>
+    <string name="orderButton">Order</string>
+</resources>
